@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="TR", TRT 1
 http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/13999?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lNWrOE2.png" group-title="TR", TRT 2
-http://mdstream.net:8080/9e5620c5c6762694/bBZdKCWuja/22689
+http://hw1.jemtv.com/app/trt2/playlist.m3u8?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OVfo8Ab.png" tvg-id="TRTHaber.tr" group-title="TR",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR", Trt Belgesel
@@ -33,15 +33,15 @@ http://abcnew.site:8880/29ca11113n01/adsfer3223/33036?checkedby:alliptvlinks.com
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N2wGZyf.png" tvg-id="TRTSpor.tr" group-title="TR-Spor",TRT Spor
 http://34mix.com:8080/orhande/b3UQARhBNuuZ/8671?checkedby:alliptvlinks.com
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ysKteM8.png" group-title="TR-Spor",TRT Spor 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ysKteM8.png" group-title="TR-Spor", TRT Spor 2
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="TR-Spor", BEIN SPORTS
 http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/14030?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="TR-Spor, Bein Sports 2
+#EXTINF:-1 group-title="TR-Spor", Bein Sports 2
 http://34mix.com:8080/orhande/b3UQARhBNuuZ/23893?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="TR-Spor", BEIN SPORTS 3
 http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/14032?checkedby:alliptvlinks.com
-#EXTINF:-1 group-title="TR-Spor, BEIN SPORTS 4
+#EXTINF:-1 group-title="TR-Spor", BEIN SPORTS 4
 http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/14031?checkedby:alliptvlinks.com
 #EXTINF: group-title="TR-Spor, Tivibu Sport
 http://34mix.com:8080/orhande/b3UQARhBNuuZ/22?checkedby:alliptvlinks.com
