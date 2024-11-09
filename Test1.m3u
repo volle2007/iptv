@@ -24,6 +24,21 @@ http://93.119.105.62:80/play/live.php?mac=00:1A:79:D5:9F:BB&stream=2976&extensio
 
 
 
+#EXTINF:-1 group-title="DE", ARD DAS ERSTE
+http://152.89.62.76:8880/D12m2846/23828775/2676?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="DE", ZDF
+http://abcnew.site:8880/JH12M3D196/fRV363z8kz/29026?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="DE", RTL
+http://pubgamers.net:80/JetmirMemedi/2MpgigZpc8/158?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="DE", RTL 2
+http://abcnew.site:8880/JH12M3D196/fRV363z8kz/29022?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="DE", DMAX
+http://152.89.62.76:8880/D12m2846/23828775/2646?checkedby:alliptvlinks.com
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N2wGZyf.png" tvg-id="TRTSpor.tr" group-title="TR-Spor",TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ysKteM8.png" group-title="TR-Spor",TRT Spor 2
