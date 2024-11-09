@@ -40,15 +40,27 @@ http://152.89.62.76:8880/D12m2846/23828775/2646?checkedby:alliptvlinks.com
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N2wGZyf.png" tvg-id="TRTSpor.tr" group-title="TR-Spor",TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+http://34mix.com:8080/orhande/b3UQARhBNuuZ/8671?checkedby:alliptvlinks.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ysKteM8.png" group-title="TR-Spor",TRT Spor 2
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="TR-Spor", BEIN SPORTS
+http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/14030?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="TR-Spor, Bein Sports 2
 http://34mix.com:8080/orhande/b3UQARhBNuuZ/23893?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="TR-Spor", BEIN SPORTS 3
 http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/14032?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="TR-Spor, BEIN SPORTS 4
 http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/14031?checkedby:alliptvlinks.com
+#EXTINF: group-title="TR-Spor, Tivibu Sport
+http://34mix.com:8080/orhande/b3UQARhBNuuZ/22?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="TR-Spor", Tivibu Sport 1
+http://tv.novea-hosting.com:80/martin@md14owl.co.uk/xPTzXDwNky/14039?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="TR-Spor, Tivibu Sport 2
+http://34mix.com:8080/orhande/b3UQARhBNuuZ/26?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="TR-Spor, Tivibu Sport 3
+http://34mix.com:8080/orhande/b3UQARhBNuuZ/28951?checkedby:alliptvlinks.com
+#EXTINF:-1 group-title="TR-Spor, Tivibu Sport 4
+http://34mix.com:8080/orhande/b3UQARhBNuuZ/43205?checkedby:alliptvlinks.com
 
 
 
