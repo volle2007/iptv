@@ -160,9 +160,9 @@ http://stream.tvcdn.net/dini/asr-i-serif-tv.m3u8
 #EXTINF:-1  tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
 http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1  tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
-http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1  tvg-name="ATV" tvg-id="ATV.tr" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="ULUSAL",ATV
-https://yayin2.canlitv.fun/livetv/atv.stream/playlist.m3u8
+http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1  tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",atv
 http://stream.tvcdn.net/ulusal/atv.m3u8
 #EXTINF:-1  tvg-id="ATVAvrupa.tr" tvg-logo="http://assets.tvcdn.net/6d19cf7f-9057-4055-9aa8-532fdd0bdab5.png" group-title="Ulusal - Yurt Dışı",ATV Avrupa
@@ -1231,7 +1231,7 @@ https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1  tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="Haber",NTV
 http://stream.tvcdn.net/haber/ntv.m3u8
 #EXTINF:-1 ,NTV - YOUTUBE
-https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/ntv.m3u8
+https://dogus-live.daioncdn.net/ntv/playlist.m3u8?checkedby:alliptvlinks.com
 #EXTINF:-1  tvg-id="Number1Ask.tr" tvg-logo="http://assets.tvcdn.net/a93b01d9-2c8f-4406-b5f9-abdf2f600e79.png" group-title="Müzik",Number 1 Aşk
 http://stream.tvcdn.net/muzik/number-1-ask.m3u8
 #EXTINF:-1  tvg-id="Number1Damar.tr" tvg-logo="http://assets.tvcdn.net/2330eb6b-5e83-44ed-a2c5-028417f4cb67.png" group-title="Müzik",Number 1 Damar
@@ -2026,4 +2026,3 @@ http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=27136&exte
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=27138&extension=ts&checkedby:alliptvlinks.com
 #EXTINF:-1  group-title="DE-Sport",SKY SPORT 9
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:41:1F:7F&stream=115394&extension=ts&checkedby:alliptvlinks.com
-#EXTINF:-1  group-title="DE-Sport",SKY SPORT 11
